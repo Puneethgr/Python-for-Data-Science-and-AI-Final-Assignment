@@ -1,5 +1,5 @@
 # Python-for-Data-Science-and-AI-Final-Assignment
-Final assignment solutions for Coursera course (Python for Data Science and AI)
+Final assignment solutions for Coursera course "Python for Data Science and AI"
 
 Question 1: Create a dataframe that contains the GDP data and display the first five rows of the dataframe.
 
